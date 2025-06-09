@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>untitled</artifactId>
+    <version>83.86-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>24</maven.compiler.source>
+        <maven.compiler.target>24</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+
+<!-- ĐÂY LÀ NƠI KHAI BÁO CÁC THƯ VIỆN MÌNH CẦN DÙNG, KHAI BÁO THEO 1 CÚ PHÁP CHO TRƯỚC
+KHÔNG GÕ TỰ DO
+ GÕ ĐÚNG CÚ PHÁP TÊN THƯ VIỆN, THÌ PHÍA HẬU TRƯỜNG CỦA INTELLIJI/NETBEAN/ESCLIPSE CÓ 1 TOOL KHÁC
+ SẼ ĐẢM NHIỆM ĐI TẢI THƯ VIỆN TRÊN MẠNG VỀ MÁY ĐỂ TA SẴN SÀNG XÀI CLASS THƯ VIỆN
+ GIỐNG CƠ CHẾ HOẠT ĐỘNG CỦA BÊN C# VÀ NODE.JS HAY REACT
+ JAVA: TOOL NÀY TÊN LÀ MAVEN CÂU LỆNH LÀ MVA
+ NODE: TOOL NÀY TÊN LÀ NODE PACKAGE MANAGEMENT CÂU LỆNH MPM
+ C# TOOL NÀY TÊN LÀ NUGET
+
+ mvnrepository.com
+ -->
+<dependencies>
+    <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter -->
+    <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter</artifactId>
+        <version>5.13.0</version>
+        <scope>test</scope>
+    </dependency>
+</dependencies>
+
+
+
+</project>

@@ -6,4 +6,4 @@
 * A demostrantion of using CI (Continuous Intergration) with Github Actions
 * ...
 ### Connect me via: nguyenphilong226@gmail.com
-#### $#169; 2025 DragonPi
+#### &#169; 2025 DragonPi

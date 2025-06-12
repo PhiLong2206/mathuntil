@@ -11,5 +11,5 @@
 ### Buid app with Maven
 ![Maven builder](https://github.com/PhiLong2206/mathuntil/blob/main/screenshots/Maven%20Builder.png)
 ### Connect me via: nguyenphilong226@gmail.com
-<<<<<<< HEAD
-#### &#169; 2025 DragonPii
+#### &#169; 2025 DragonPi
+
